@@ -1,0 +1,30 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg3" x1="0" y1="0" x2="1200" y2="760"><stop stop-color="#0C1A2E"/><stop offset="1" stop-color="#08111F"/></linearGradient>
+<linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#71F0B6"/><stop offset="1" stop-color="#7DB8FF"/></linearGradient>
+</defs>
+<rect width="1200" height="760" rx="36" fill="url(#bg3)"/>
+<rect x="194" y="182" width="620" height="378" rx="24" fill="#0E1827" stroke="#223552"/>
+<rect x="230" y="214" width="548" height="250" rx="18" fill="#111E31" stroke="#2C4260"/>
+<rect x="264" y="248" width="170" height="14" rx="7" fill="#EDF4FD" fill-opacity="0.75"/>
+<rect x="264" y="278" width="210" height="10" rx="5" fill="#A4B7D5" fill-opacity="0.34"/>
+<rect x="264" y="308" width="94" height="34" rx="17" fill="url(#green)"/>
+<rect x="512" y="234" width="228" height="204" rx="24" fill="#0A1422" stroke="#27405E"/>
+<path d="M550 410C564 324 632 274 706 292C716 294 727 298 737 304C726 346 704 376 674 398C646 418 596 434 550 410Z" fill="#EAF2FD" fill-opacity="0.95"/>
+<ellipse cx="640" cy="386" rx="88" ry="44" fill="#71F0B6" fill-opacity="0.18"/>
+<rect x="230" y="488" width="124" height="40" rx="14" fill="#F4F7FD" fill-opacity="0.09"/><rect x="370" y="488" width="124" height="40" rx="14" fill="#F4F7FD" fill-opacity="0.09"/><rect x="510" y="488" width="124" height="40" rx="14" fill="#F4F7FD" fill-opacity="0.09"/><rect x="650" y="488" width="124" height="40" rx="14" fill="#F4F7FD" fill-opacity="0.09"/>
+<path d="M308 560H700L744 598H264L308 560Z" fill="#1C2B45"/>
+<rect x="828" y="212" width="194" height="358" rx="30" fill="#0D1726" stroke="#2A405E"/>
+<rect x="896" y="234" width="58" height="8" rx="4" fill="#667D9F"/>
+<rect x="850" y="268" width="150" height="168" rx="20" fill="#F4F7FD" fill-opacity="0.08"/>
+<rect x="850" y="458" width="150" height="18" rx="9" fill="#A8B9D5" fill-opacity="0.22"/>
+<rect x="850" y="490" width="150" height="34" rx="17" fill="url(#green)"/>
+<rect x="888" y="272" width="74" height="136" rx="20" fill="#0A1422" stroke="#28405F"/>
+<circle cx="1060" cy="274" r="74" fill="#71F0B6" fill-opacity="0.08"/>
+<rect x="1010" y="288" width="126" height="156" rx="24" fill="#101C2E" stroke="#28405F"/>
+<text x="1073" y="322" text-anchor="middle" fill="#EAF4FF" font-family="Arial" font-size="20" font-weight="700">Business</text>
+<rect x="1036" y="344" width="74" height="10" rx="5" fill="#9AB0CC" fill-opacity="0.3"/><rect x="1036" y="366" width="58" height="10" rx="5" fill="#9AB0CC" fill-opacity="0.22"/><rect x="1036" y="396" width="72" height="26" rx="13" fill="url(#green)"/>
+<text x="1028" y="548" fill="#BFD0E8" font-family="Arial" font-size="18">✓ Secure checkout</text>
+<text x="1028" y="582" fill="#BFD0E8" font-family="Arial" font-size="18">✓ Mobile first</text>
+<text x="1028" y="616" fill="#BFD0E8" font-family="Arial" font-size="18">✓ Premium look</text>
+</svg>
